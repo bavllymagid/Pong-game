@@ -2,7 +2,7 @@
 It's a simple pong game with alot of new features that will make your game experience more fun.
 
 ---
-# Contributers 
+# Contributors 
 Bavlly magid 
 Laila emad 
 Badr mohamed 
