@@ -1,0 +1,6 @@
+bavlly 2
+ma 1
+ai 0
+bv 0
+bavly 0
+tony 0
